@@ -1,0 +1,16 @@
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.exe
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.deps.json
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.runtimeconfig.dev.json
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.dll
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\bin\Debug\net5.0\TelephoneDirectory.pdb
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.dll
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\refint\TelephoneDirectory.dll
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.pdb
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\Berk\Desktop\C# Codes\TelephoneDirectory\TelephoneDirectory\obj\Debug\net5.0\ref\TelephoneDirectory.dll
